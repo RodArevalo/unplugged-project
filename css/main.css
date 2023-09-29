@@ -248,6 +248,10 @@ footer .copyright {
   margin: 20px 0;
 }
 
+.copyright span {
+  color: #b2533e;
+}
+
 /* -------------------- Mobile Styles - Homepage -------------------- */
 
 /* Hero Area */
